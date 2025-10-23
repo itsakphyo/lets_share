@@ -15,7 +15,7 @@
 
 A demonstration of **professional-grade full-stack development** with clean architecture, proper separation of concerns, and robust data access layers.
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 This project showcases **enterprise-level code organization** and **best practices** across the full stack, prioritizing maintainable, scalable, and testable code over feature complexity.
 
@@ -111,7 +111,7 @@ export const useAuth = () => {
 };
 ```
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Backend
 - **FastAPI** - Modern async Python framework
@@ -129,42 +129,7 @@ export const useAuth = () => {
 - **Material-UI** - Component library
 - **Axios** - HTTP client with interceptors
 
-## 📁 Project Structure
-
-### Backend Organization
-```
-backend/
-├── app/
-│   ├── api/                    # API layer
-│   │   ├── dependencies/       # Dependency injection
-│   │   └── routes/            # HTTP route handlers
-│   ├── core/                  # Core infrastructure
-│   │   ├── config.py          # Environment configuration
-│   │   └── database.py        # Database connection management
-│   ├── models/                # SQLAlchemy ORM models
-│   ├── repositories/          # Data access layer
-│   ├── services/              # Business logic layer
-│   └── schemas/               # Pydantic validation schemas
-├── alembic/                   # Database migrations
-└── main.py                    # Application entry point
-```
-
-### Frontend Organization
-```
-frontend/src/
-├── components/                # React components
-│   ├── features/             # Feature-specific components
-│   └── layout/               # Layout components
-├── hooks/                    # Custom React hooks
-├── services/                 # API communication layer
-│   └── api/                  
-├── store/                    # State management
-├── types/                    # TypeScript type definitions
-├── config/                   # Configuration constants
-└── pages/                    # Page components
-```
-
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.11+
@@ -187,7 +152,7 @@ npm install
 npm run dev
 ```
 
-## 🎯 Code Quality Features
+## Code Quality Features
 
 ### Backend Quality Patterns
 - **Async/Await**: Proper async handling throughout
@@ -203,7 +168,7 @@ npm run dev
 - **Error Boundaries**: Graceful error handling
 - **Performance**: Optimized re-renders, lazy loading ready
 
-## 🧪 Development Patterns
+## Development Patterns
 
 This project demonstrates:
 
@@ -215,7 +180,7 @@ This project demonstrates:
 - **API Layer** abstraction with error handling
 - **Type-Safe** development across the stack
 
-## 📝 Notes
+## Notes
 
 This is a **code architecture demonstration** focused on:
 - Professional development patterns
