@@ -1,5 +1,18 @@
 # Let's Share
 
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688?logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-red?logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)
+![React](https://img.shields.io/badge/React-19.1.1-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State%20Management-orange)
+![Material-UI](https://img.shields.io/badge/Material--UI-7.3.2-0081CB?logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF?logo=vite&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?logo=axios&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-Migrations-yellowgreen)
+
 A demonstration of **professional-grade full-stack development** with clean architecture, proper separation of concerns, and robust data access layers.
 
 ## 🏗️ Architecture Overview
